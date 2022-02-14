@@ -16,8 +16,11 @@
     timeToSendDiscord: 30
     #Tempo para enviar print do farm para webhook
     sendAmountFarm: 30
-    webhooklink: "https://discord.com/api/webhooks/934936197149650984/g27A1BYXp3tPVAMCt2FGFv062fkmePLx8uIsOEPLyADyuzgcX4tHqHKYAJfXXKC4bJWb"
-    refresh_bau: 30
+    #Link do webook do discord para enviar as prints
+    webhooklink: "https://discord.com/api/webhooks/xxxxxx/xxxxxxxx" 
+    #Tempo para dar CTRL F5 na pagina
+    refresh_bau: 30  
+
     # [en_US] Time interval to update heroes position in the map,
     # Default value (in minutes): 3
     #
